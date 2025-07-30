@@ -23,7 +23,7 @@ const Message = ({ message }) => {
       <div className={`chat-bubble text-white ${bubbleBgColor} ${shakeClass} `}>
         {message.message}
       </div>
-      <div className={`chat-footer opacity-50 text-xs flex gap-1 items-center`}>
+      <div className={`chat-footer opacity-50 text-xs flex gap-1 items-center text-gray-950`}>
         {getTime(message.createdAt)}
       </div>
     </div>

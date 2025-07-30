@@ -58,7 +58,12 @@ By completing this task, I learned:
 ### Conclusion:
 The Real-Time Chat Application task was an excellent opportunity to understand how real-world communication platforms like WhatsApp, Discord, or Slack function under the hood. This project enhanced my full-stack development skills by combining frontend interface design with backend real-time data handling. It also helped me understand the importance of efficient event handling and responsiveness in collaborative applications.
 
+## Code-Output
 
-https://github.com/user-attachments/assets/c19af22e-9491-4985-b13e-cced2020e870
+https://github.com/user-attachments/assets/579253df-b97a-437c-a093-d51483edb8eb
+
+
+
+
 
 
